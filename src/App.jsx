@@ -1,6 +1,8 @@
 
 import './App.css'
+import Heero from './Components/Heero'
 import Navbar from './Components/Navbar'
+
 
 function App() {
 
@@ -9,6 +11,7 @@ function App() {
     <>
     <main>
       <Navbar/>
+      <Heero/>
     </main>
       
     </>
